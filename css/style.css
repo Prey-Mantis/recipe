@@ -6,3 +6,7 @@ h1 {
     font-family: cursive;
     font-size: 400%;
 }
+* {text-align: center;}
+ul {
+    list-style-type: none;
+}

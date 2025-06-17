@@ -1,4 +1,7 @@
 h1 { color: olive;
 font-family: cursive;
 font-size: 300%;}
-* {background-color: lemonchiffon;}
+* {background-color: lemonchiffon;
+}
+
+.list {text-align: center;}
